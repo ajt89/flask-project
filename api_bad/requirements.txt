@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+onetimepad
+pycrypto
+boto3
+pymysql
+flask-script
+flask_cors
+serializer
